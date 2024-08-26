@@ -244,6 +244,7 @@ namespace MauiAppShowDoMilhao
             new Alternativa {Correta = true, Descricao = "BAGDÁ"},
             new Alternativa {Correta = false, Descricao = "ISTAMBUL"},
             new Alternativa {Correta = false, Descricao = "JERUSALÉM"},
+
         }
     },
 };
